@@ -1,0 +1,6 @@
+[package]
+name = "jvm-bindgen"
+version = "0.1.0"
+authors = ["Sergey Bugaev <bugaevc@gmail.com>"]
+
+[dependencies]
