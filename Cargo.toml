@@ -4,3 +4,7 @@ version = "0.1.0"
 authors = ["Sergey Bugaev <bugaevc@gmail.com>"]
 
 [dependencies]
+classfile-parser = "0.3.2"
+quote = "0.6.6"
+proc-macro2 = "0.4"
+itertools = "0.7.8"
